@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Radio Ejemplo 1",
+    "urlStreaming": "http://stream.ejemplo1.com/radio.mp3",
+    "urlLogo": "https://ejemplo.com/logos/radio1.png",
+    "genero": "Pop",
+    "pais": "Perú"
+  },
+  {
+    "nombre": "Radio Ejemplo 2",
+    "urlStreaming": "http://stream.ejemplo2.net/live",
+    "urlLogo": "https://ejemplo.com/logos/radio2.png",
+    "genero": "Rock",
+    "pais": "México"
+  },
+  {
+    "nombre": "Radio Ejemplo 3",
+    "urlStreaming": "http://stream.ejemplo3.org/audio.aac",
+    "urlLogo": "https://ejemplo.com/logos/radio3.png",
+    "genero": "Noticias",
+    "pais": "España"
+  }
+]
